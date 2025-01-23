@@ -1,4 +1,4 @@
-# Virtual Screen Manager
+# Window Manager
 
 **Virtual Screen Manager** is a Python-based application that allows you to divide a large monitor into virtual screens. It provides functionality to manage and position windows as if they were displayed on multiple independent monitors, enhancing productivity and user experience.
 
