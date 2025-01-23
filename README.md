@@ -1,6 +1,6 @@
 # Window Manager
 
-**Virtual Screen Manager** is a Python-based application that allows you to divide a large monitor into virtual screens. It provides functionality to manage and position windows as if they were displayed on multiple independent monitors, enhancing productivity and user experience.
+**Window Manager** is a Python-based application that allows you to divide a large monitor into virtual screens. It provides functionality to manage and position windows as if they were displayed on multiple independent monitors, enhancing productivity and user experience.
 
 ---
 
@@ -28,5 +28,5 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/virtual-screen-manager.git
+   git clone https://github.com/adriviciano/WindowManager.git
    cd virtual-screen-manager
