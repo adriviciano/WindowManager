@@ -53,8 +53,9 @@ class WindowManager:
             self.move_window_to_region(selected_windows[0][0], (0, 0, self.screen_width, self.screen_height))
         elif count == 2:
             width = self.screen_width // 2
+            band_height = self.screen_height // 4  # Altura de las bandas negras (ajusta según preferencia)
             height = self.screen_height // 2
-            regions = [(0, self.screen_height // 4, width, height), (width, self.screen_height // 4, width, height)]
+            regions = [(0, band_height, width, height), (width, band_height, width, height)]
         elif count == 4:
             width = self.screen_width // 2
             height = self.screen_height // 2
