@@ -29,4 +29,4 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/adriviciano/WindowManager.git
-   cd virtual-screen-manager
+   cd WindowManager
