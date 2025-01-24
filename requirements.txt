@@ -1,2 +1,2 @@
-pywin32==306          # Para manipular la API de Windows (ventanas y configuraciones)
-tkinter               # Para la interfaz gráfica (incluido con Python, no requiere instalación)
+pywin32==306
+tkinter

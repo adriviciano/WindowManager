@@ -1,4 +1,4 @@
-from src.ui.main_window import MainWindow
+from ui.main_window import MainWindow
 import sys
 
 def main():
